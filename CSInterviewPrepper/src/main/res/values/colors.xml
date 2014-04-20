@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="category_list_item_even_color">#FFEEEEEE</color>
+    <color name="category_list_item_odd_color">#FFEEEEEE</color>
+    <color name="category_list_item_normal_color">#FFEEEEEE</color>
+    <color name="category_list_item_activated_color">#FFDDDDDD</color>
+    <color name="main_activity_bg">#FFEEEEEE</color>
+</resources>

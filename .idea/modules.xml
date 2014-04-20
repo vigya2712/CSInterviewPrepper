@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSInterviewPrepper.iml" filepath="$PROJECT_DIR$/CSInterviewPrepper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSInterviewPrepper/CSInterviewPrepper-CSInterviewPrepper.iml" filepath="$PROJECT_DIR$/CSInterviewPrepper/CSInterviewPrepper-CSInterviewPrepper.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:flatui="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/category_selection_state_list"
+    >
+    <com.cengalabs.flatui.views.FlatTextView
+        android:id="@+id/txtCategoryNameEven"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="@dimen/category_text_size"
+        android:layout_marginBottom="@dimen/category_vertical_margin"
+        android:layout_marginTop="@dimen/category_vertical_margin"
+        android:textStyle="bold"
+        android:layout_marginLeft="@dimen/category_left_margin"
+        flatui:textColor="main"
+        flatui:theme="Grass"
+        flatui:fieldStyle="flat"
+        />
+</LinearLayout>
